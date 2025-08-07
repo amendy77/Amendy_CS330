@@ -44,5 +44,6 @@ Professional Pathway: Computational graphics and visualizations have given me ac
 these abilities are essential for producing lifelike 3D settings in game development. They can assist in making complex data easier to understand in
 analytics and data visualization. Furthermore, computer science-related abilities like problem-solving and algorithmic thinking are extremely valuable 
 and transferable across a variety of occupations.
+
 <img width="1010" height="792" alt="Screenshot aa" src="https://github.com/user-attachments/assets/e49c99b6-9677-4ff6-9200-cce5c81a6722" />
 
