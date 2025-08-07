@@ -45,5 +45,6 @@ these abilities are essential for producing lifelike 3D settings in game develop
 analytics and data visualization. Furthermore, computer science-related abilities like problem-solving and algorithmic thinking are extremely valuable 
 and transferable across a variety of occupations.
 
-<img width="1010" height="792" alt="Screenshot aa" src="https://github.com/user-attachments/assets/e49c99b6-9677-4ff6-9200-cce5c81a6722" />
+<img width="1339" height="870" alt="mysample" src="https://github.com/user-attachments/assets/977c75c4-1f9c-46d3-a75f-71bb53ea3e1e" />
+
 
