@@ -3,7 +3,7 @@ the OpenGl libraries for C++ were used to create three-dimensional objects in sp
 however the underlying software was based on several tutorials.  Furthermore, I created the distinct classes for ShapeBuild(er)ing and SceneBuild(er)ing from the ground up.
 The finished product demonstrates how these courses and their approaches combine to produce a modular, approachable application that enables anyone to produce a basic 3D environment.
 
-# Amendy_CS330
+
 How do I approach designing software?
 
 I take a troubleshooting procedure into consideration when I build software. I begin by reading the documentation,
