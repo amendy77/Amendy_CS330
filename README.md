@@ -1,3 +1,8 @@
+Welcome to the repository for the different projects I completed in my SNHU Online course, CS 330 Computer Graphics & Visualization!  In this course, 
+the OpenGl libraries for C++ were used to create three-dimensional objects in space.  The URender method for rendering shapes to the screen was refactored by myself,
+however the underlying software was based on several tutorials.  Furthermore, I created the distinct classes for ShapeBuild(er)ing and SceneBuild(er)ing from the ground up.
+The finished product demonstrates how these courses and their approaches combine to produce a modular, approachable application that enables anyone to produce a basic 3D environment.
+
 # Amendy_CS330
 How do I approach designing software?
 
